@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Samuel Gröner
-- 👀 I’m a computer Scientist from Germany
-- 🌱 I’m currently studying for my Bachlor of Science
-- 📫 How to reach me samuel.groener@uni-ulm.de
+- 👀 I’m a Computer Scientist from Germany
+- 📫 How to reach me samuel.groener@gmx.de
 
 <!---
 Youchunmaru/Youchunmaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
