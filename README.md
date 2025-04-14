@@ -3,16 +3,16 @@
 
 * I'm fron germany
 
-* I'm a computer scientist
+* I'm a software developer
 
 * I'm also a scout, but i don't sell cookies (╯°□°)╯︵ ┻━┻
 
 * I love computer games, especially tetris
-  - my favorite opener: TKI with flat top continuation Imperial Cross
+  - my favorite opener: TKI
   
 * I also love photography, especially taking pictures of animals
 
-* How to reach me samuel.groener@gmx.de
+* How to reach me samuelgroenerr+github@gmail.com
 ```
 <!---
 Youchunmaru/Youchunmaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
