@@ -1,0 +1,2 @@
+--- add here the spells with quick casts for cmd
+--- like teleport='alias teleport="cd"' tp = 'alias tp="teleport"'
